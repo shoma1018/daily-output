@@ -58,3 +58,8 @@ Thumbs.db
 *.pid
 *.seed
 *.pid.lock
+
+# ------------------------
+# Java compiled files
+# ------------------------
+*.class
