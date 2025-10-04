@@ -1,0 +1,22 @@
+<!-- P006: クリックでボタンの文字列が変化する -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ClickButton</title>
+</head>
+<body>
+  <button id="btn">Hello</button>
+  <script>
+    const button = document.getElementById('btn');
+    button.addEventListener('click', () => {
+      if (button.textContent === 'Hello') {
+        button.textContent = 'World';
+      } else {
+        button.textContent = 'Hello';
+      }
+    }, false);
+  </script>
+</body>
+</html>
