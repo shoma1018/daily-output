@@ -10,3 +10,4 @@
 | 2025-10-04 | Frontend       | ClickButton          | HTML / JS  | [P006_ClickButton.html](./P006_ClickButton.html)            |
 | 2025-10-05 | Backend        | GreetingForm         | Java       | [P007_GreetingForm.java](./P007_GreetingForm.java)          |
 | 2025-10-06 | Algorithm      | PrintNumbersStep     | Java       | [P008_PrintNumbersStep.java](./P008_PrintNumbersStep.java)  |
+| 2025-10-07 | Algorithm      | ArraySum             | Java       | [P009_ArraySum2.java](./P009_ArraySum2.java)                |
