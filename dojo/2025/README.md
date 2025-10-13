@@ -17,3 +17,4 @@
 | 2025-10-11 | Frontend       | ClickToggle.         | HTML / JS  | [P013_ClickToggle.html](./P013_ClickToggle.html)            |
 | 2025-10-12 | Backend        | GreetingForm2        | Java       | [P014_GreetingForm2.java](./P014_GreetingForm2.java)        |
 | 2025-10-13 | Algorithm      | FunctionSum          | Java       | [P015_FunctionSum.java](./P015_FunctionSum.java)            |
+| 2025-10-14 | Algorithm      | ArrayAverage         | Java       | [P016_ArrayAverage.java](./P016_ArrayAverage.java)          |
