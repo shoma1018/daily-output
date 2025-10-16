@@ -19,3 +19,4 @@
 | 2025-10-13 | Algorithm      | FunctionSum          | Java       | [P015_FunctionSum.java](./P015_FunctionSum.java)            |
 | 2025-10-14 | Algorithm      | ArrayAverage         | Java       | [P016_ArrayAverage.java](./P016_ArrayAverage.java)          |
 | 2025-10-15 | Algorithm      | ArrayCountEven       | Java       | [P017_ArrayCountEven.java](./P017_ArrayCountEven.java)      |
+| 2025-10-16 | Algorithm      | FunctionMax          | Java       | [P018_FunctionMax.java](./P018_FunctionMax.java)            |
