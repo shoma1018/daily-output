@@ -1,0 +1,35 @@
+<!-- P020: クリックすると、カウントアップするボタンとカウントダウンするボタン-->
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Counter</title>
+</head>
+<body>
+  <div id="display">0</div>
+  <button id="countUp">+</button>
+  <button id="countDown">-</button>
+  <script>
+    let count = 0;
+    const display = document.getElementById('display');
+    const countUpBtn = document.getElementById('countUp');
+    const countDownBtn = document.getElementById('countDown');
+
+    function updateDisplay() {
+      display.textContent = count;
+    }
+
+    countUpBtn.addEventListener('click', (e) => {
+      count++;
+      updateDisplay();
+    }, false);
+
+    countDownBtn.addEventListener('click', (e) => {
+      count--;
+      updateDisplay();
+    }, false);
+  </script>
+</body>
+</html>
