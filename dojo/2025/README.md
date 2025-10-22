@@ -25,3 +25,4 @@
 | 2025-10-19 | Backend        | Calculator           | Java       | [P021_Calculator.java](./P021_Calculator.java)              |
 | 2025-10-20 | Algorithm      | StringLength         | Java       | [P022_StringLength.java](./P022_StringLength.java)          |
 | 2025-10-21 | Algorithm      | StringReverse        | Java       | [P023_StringReverse.java](./P023_StringReverse.java)        |
+| 2025-10-22 | Algorithm      | StringCountChar      | Java       | [P024_StringCountChar.java](./P024_StringCountChar.java)    |
