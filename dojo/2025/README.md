@@ -28,3 +28,4 @@
 | 2025-10-22 | Algorithm      | StringCountChar      | Java       | [P024_StringCountChar.java](./P024_StringCountChar.java)    |
 | 2025-10-23 | Algorithm      | StringConcat         | Java       | [P025_StringConcat.java](./P025_StringConcat.java)          |
 | 2025-10-24 | Algorithm      | StringPalindrome     | Java       | [P026_StringPalindrome.java](./P026_StringPalindrome.java)  |
+| 2025-10-25 | Frontend       | TextMirror           | HTML / JS  | [P027_TextMirror.html](./P027_TextMirror.html)              |

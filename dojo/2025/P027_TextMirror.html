@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TextMirror</title>
+</head>
+<body>
+  <input id="input" type="text">
+  <div id="display">入力欄が反映されます...</div>
+  <script>
+    const inputField = document.getElementById('input');
+    const display = document.getElementById('display');
+    inputField.addEventListener('input', (e) => {
+      display.textContent = e.target.value;
+    }, false);
+  </script>
+</body>
+</html>
