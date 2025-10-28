@@ -32,3 +32,4 @@
 | 2025-10-26 | Backend        | UserGreeting         | Java       | [P028_UserGreeting.java](./P028_UserGreeting.java)          |
 | 2025-10-27 | Algorithm      | TwoDimArray          | Java       | [P029_TwoDimArray.java](./P029_TwoDimArray.java)            |
 | 2025-10-28 | Algorithm      | FizzBuzz             | Java       | [P030_FizzBuzz.java](./P030_FizzBuzz.java)                  |
+| 2025-10-29 | Algorithm      | PrimeCheck           | Java       | [P031_PrimeCheck.java](./P031_PrimeCheck.java)              |
