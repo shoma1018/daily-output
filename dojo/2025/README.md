@@ -33,3 +33,5 @@
 | 2025-10-27 | Algorithm      | TwoDimArray          | Java       | [P029_TwoDimArray.java](./P029_TwoDimArray.java)            |
 | 2025-10-28 | Algorithm      | FizzBuzz             | Java       | [P030_FizzBuzz.java](./P030_FizzBuzz.java)                  |
 | 2025-10-29 | Algorithm      | PrimeCheck           | Java       | [P031_PrimeCheck.java](./P031_PrimeCheck.java)              |
+| 2025-10-30 | Algorithm      | SumOfDigits          | Java       | [P032_SumOfDigits.java](./P032_SumOfDigits.java)            |
+
