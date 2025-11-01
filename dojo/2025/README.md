@@ -35,3 +35,4 @@
 | 2025-10-29 | Algorithm      | PrimeCheck           | Java       | [P031_PrimeCheck.java](./P031_PrimeCheck.java)              |
 | 2025-10-30 | Algorithm      | SumOfDigits          | Java       | [P032_SumOfDigits.java](./P032_SumOfDigits.java)            |
 | 2025-10-31 | Algorithm      | ReverseNumber        | Java       | [P033_ReverseNumber.java](./P033_ReverseNumber.java)        |
+| 2025-11-01 | Algorithm      | Factorial            | Java       | [P034_Factorial.java](./P034_Factorial.java)                |
