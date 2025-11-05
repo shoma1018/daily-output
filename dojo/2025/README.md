@@ -40,3 +40,4 @@
 | 2025-11-03 | Algorithm      | ArrayReverse         | Java       | [P036_ArrayReverse.java](./P036_ArrayReverse.java)          |
 | 2025-11-04 | Algorithm      | SecondLargest        | Java       | [P037_SecondLargest.java](./P037_SecondLargest.java)        |
 | 2025-11-05 | Algorithm      | ArrayShift           | Java       | [P038_ArrayShift.java](./P038_ArrayShift.java)              |
+| 2025-11-06 | Algorithm      | CountOccurrence      | Java       | [P039_CountOccurrence.java](./P039_CountOccurrence.java)    |
