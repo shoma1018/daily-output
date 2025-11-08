@@ -42,3 +42,4 @@
 | 2025-11-05 | Algorithm      | ArrayShift           | Java       | [P038_ArrayShift.java](./P038_ArrayShift.java)              |
 | 2025-11-06 | Algorithm      | CountOccurrence      | Java       | [P039_CountOccurrence.java](./P039_CountOccurrence.java)    |
 | 2025-11-07 | Algorithm      | SumEvenNumbers       | Java       | [P040_SumEvenNumbers.java](./P040_SumEvenNumbers.java)      |
+| 2025-11-08 | Algorithm      | FindIndex            | Java       | [P041_FindIndex.java](./P041_FindIndex.java)                |
