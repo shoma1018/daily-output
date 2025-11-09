@@ -43,3 +43,4 @@
 | 2025-11-06 | Algorithm      | CountOccurrence      | Java       | [P039_CountOccurrence.java](./P039_CountOccurrence.java)    |
 | 2025-11-07 | Algorithm      | SumEvenNumbers       | Java       | [P040_SumEvenNumbers.java](./P040_SumEvenNumbers.java)      |
 | 2025-11-08 | Algorithm      | FindIndex            | Java       | [P041_FindIndex.java](./P041_FindIndex.java)                |
+| 2025-11-09 | Algorithm      | MissingNumber        | Java       | [P042_MissingNumber.java](./P042_MissingNumber.java)        |
