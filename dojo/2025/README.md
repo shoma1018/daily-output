@@ -45,3 +45,4 @@
 | 2025-11-08 | Algorithm      | FindIndex            | Java       | [P041_FindIndex.java](./P041_FindIndex.java)                |
 | 2025-11-09 | Algorithm      | MissingNumber        | Java       | [P042_MissingNumber.java](./P042_MissingNumber.java)        |
 | 2025-11-10 | Algorithm      | RemoveDuplicates     | Java       | [P043_RemoveDuplicates.java](./P043_RemoveDuplicates.java)  |
+| 2025-11-11 | Algorithm      | MergeArrays          | Java       | [P044_MergeArrays.java](./P044_MergeArrays.java)            |
