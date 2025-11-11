@@ -46,3 +46,4 @@
 | 2025-11-09 | Algorithm      | MissingNumber        | Java       | [P042_MissingNumber.java](./P042_MissingNumber.java)        |
 | 2025-11-10 | Algorithm      | RemoveDuplicates     | Java       | [P043_RemoveDuplicates.java](./P043_RemoveDuplicates.java)  |
 | 2025-11-11 | Algorithm      | MergeArrays          | Java       | [P044_MergeArrays.java](./P044_MergeArrays.java)            |
+| 2025-11-12 | Algorithm      | ArrayRotateRight     | Java       | [P045_ArrayRotateRight.java](./P045_ArrayRotateRight.java)  |
