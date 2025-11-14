@@ -48,3 +48,4 @@
 | 2025-11-11 | Algorithm      | MergeArrays          | Java       | [P044_MergeArrays.java](./P044_MergeArrays.java)            |
 | 2025-11-12 | Algorithm      | ArrayRotateRight     | Java       | [P045_ArrayRotateRight.java](./P045_ArrayRotateRight.java)  |
 | 2025-11-13 | Algorithm      | IntersectionArray    | Java       | [P046_IntersectionArray.java](./P046_IntersectionArray.java)|
+| 2025-11-14 | Algorithm      | UnionArray           | Java       | [P047_UnionArray.java](./P047_UnionArray.java)              |
