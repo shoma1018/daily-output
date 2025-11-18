@@ -52,3 +52,4 @@
 | 2025-11-15 | Algorithm      | FrequencyArray       | Java       | [P048_FrequencyArray.java](./P048_FrequencyArray.java)      |
 | 2025-11-16 | Algorithm      | LinearSearch         | Java       | [P049_LinearSearch.java](./P049_LinearSearch.java)          |
 | 2025-11-17 | Algorithm      | SearchMultiple       | Java       | [P050_SearchMultiple.java](./P050_SearchMultiple.java)      |
+| 2025-11-18 | Algorithm      | MinMaxIndex          | Java       | [P051_MinMaxIndex.java](./P051_MinMaxIndex.java)            |
