@@ -53,3 +53,4 @@
 | 2025-11-16 | Algorithm      | LinearSearch         | Java       | [P049_LinearSearch.java](./P049_LinearSearch.java)          |
 | 2025-11-17 | Algorithm      | SearchMultiple       | Java       | [P050_SearchMultiple.java](./P050_SearchMultiple.java)      |
 | 2025-11-18 | Algorithm      | MinMaxIndex          | Java       | [P051_MinMaxIndex.java](./P051_MinMaxIndex.java)            |
+| 2025-11-19 | Algorithm      | BinarySearch         | Java       | [P052_BinarySearch.java](./P052_BinarySearch.java)          |
